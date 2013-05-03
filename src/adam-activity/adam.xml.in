@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+        name="adam"
+        type="python:adam"
+        section="/computer/keyboard"
+        icon="adam.svg"
+        difficulty="1"
+        author="Adam Rakowski"
+        boarddir=""
+        >
+        <_title>Sort colors</_title>
+        <_description>Wanna have fun with colors? Let's play!</_description>
+        <_prerequisite>Type numbers on balls. Begin from lighter, end with darkest</_prerequisite>
+        <_goal>Type all the numbers in correct sequence</_goal>
+        <_manual></_manual>
+        <_credit></_credit>
+  </Board>
+  <Data directory=""/>
+</GCompris>
